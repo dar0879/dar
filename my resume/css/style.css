@@ -1,0 +1,212 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #f5f7fa;
+}
+
+img {
+  width: 370px;
+}
+
+.common_container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #ffff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+li {
+  color: #595959;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* Правая ЧАСТЬ */
+
+.rait_past {
+  padding: 100px 90px;
+}
+
+.Front-End_Developer {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1e2939;
+  margin-bottom: 20px;
+}
+
+.Anton_Chornyi {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #1e2939;
+  margin: 0 0 25px 0;
+}
+
+.Lorem {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.Projects {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.adress {
+  padding: 0 0 0 17px;
+}
+
+.adress1 {
+  color: #1e2939;
+  font-weight: bold;
+}
+
+.adress_text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+
+.adress_text1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.skoba {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.company {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin: 0 0 10px 0;
+}
+
+.Freelance {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+
+.data {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 0 0 10px 0;
+}
+
+.I {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.ul_company {
+  padding: 0 0 0 18px;
+}
+
+.li_company {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.otctyp3 {
+  margin: 0 15px 0 0;
+}
+
+.pro {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 0 0 10px 0;
+}
+
+.left_past {
+  background-color: #1e2939;
+  padding: 40px 0;
+}
+
+.Contacts {
+  margin: 50px 0 0 40px;
+}
+
+.bukva {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 5px;
+}
+.ssulka {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #f5f7fa;
+}
+.Tech_Skills {
+  margin: 50px 0 0 40px;
+}
+.Soft_Skills {
+  margin: 50px 0 0 40px;
+}
+.naimenovaniya {
+  padding: 0 0 0 17px;
+}
+.zvet {
+  color: #fb6d3a;
+}
+.zvet_slova {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+.zagolovok {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+/* Правая часть */
